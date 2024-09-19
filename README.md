@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
+![1716317525603-1c432c40-7d18-f472-3264-c973b5cf42d4](https://github.com/fasakinhenry/fasakinhenry/assets/138019892/0ae5265d-ffe9-40e1-b5c4-7bff50638bea)
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Kelvin" alt="Typing SVG" /></a>
