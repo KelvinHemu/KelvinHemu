@@ -5,11 +5,20 @@
 </div> 
 <be>
 
-# 🏄‍♂️ Kelvin Hemu
-
-**`Digital Craftsman (Developer/Designer/Machine Learning)`**
-
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my Social Media Plaforms
+<br>
+<details >
+    <summary align="left"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> About Me </h2></summary>
+    <p align="left"> I am a Machine Learning Engineer  <img src="./Image/cat-coder.gif" width="30px"> from Nizhny Novgorod.</p>
+    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
+    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
+    <ul>
+        <li>  🔭  I’m currently working on Lishe App</li><br>
+         <li> 🌱  I’m currently learning PyTorch</li><br>
+         <li> 📫  How to reach me Kelvinhemu@gmail.com</li><br>
+         <li> 🎓 I'm a Computer Engineering Student (3rd Year)</li><br>
+         <li> ⚡ • Fun fact: Call me KSI</li><br>
+    </ul>
+<br>
 
    <p align="center">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
