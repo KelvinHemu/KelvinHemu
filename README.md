@@ -47,6 +47,9 @@ I'm an indie full-stack developer and content creator building my version of the
 # <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api?username=KelvinHemu&repo=majidtdeni666&theme=transparent)](https://github.com/majidtdeni666)
   </p> <br>
 
+![snake gif](https://github.com/KelvinHemu/KelvinHemu/blob/output/github-contribution-grid-snake.gif)
+
 <details>
  <summary><h3>👨‍💻 Kelvin Hemu's Coding Journey</h3></summary>
    I started my coding journey as a naive computer engineering student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself cyber security development with a dream to build and crack systems, but that soon got overshadowed by my desire to excel in UI/UX design. A desire that landed me a full-stack software engineering job while self learning. However, I had another desire I had been pursuing throughout this time - Machine learning. I eventually ended up quitting my software engineering job to pursue Machine Learning full-time, and that has been my focus ever since. My journey hasn’t been easy, but it’s taught me that the key to growth is pushing beyond my comfort zone. I have a passion for building systems that matter, and I’m constantly learning new ways to integrate AI, web design, and machine learning into impactful solutions. This is just the beginning—I'm determined to keep chasing my dreams and making a difference through technology.
+<br>
