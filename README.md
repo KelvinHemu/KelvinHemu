@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
 # 🏄‍♂️ Kelvin Hemu
 
 **`Digital Craftsman (Developer/Designer/Machine Learning)`**
@@ -21,35 +22,26 @@ I'm an indie full-stack developer and content creator building my version of the
   
 # <p align=center> ![GitHub Streak](https://streak-stats.demolab.com?user=KelvinHemu&theme=gruvbox&border_radius=4.5) <br>
 
-<p align="center">
-     🧰 Languages and Tools                                           
+<details open>
+<summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
+  <div align="center">
+    <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1rsN7&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=KelvinHemu&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+  </div>
+  <div align="center">
+  <a href="https://github.com/KelvinHemu/KelvinHemu"><img alt="KelvinHemu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KelvinHemu&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  </div>
 
 <div align="center">
-    <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-    <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-    <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KelvinHemu}/count.svg" /></p> 
+</div>
+<br>
+</details>
+<div align="center">
+<br>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
 </div>
 
-<br />
-
-# <p align=center> [![Readme Card](https://github-readme-stats.vercel.app/api?username=KelvinHemu&repo=majidtdeni666&theme=transparent)](https://github.com/majidtdeni666)
-  </p> <br>
-
-![snake gif](https://github.com/KelvinHemu/KelvinHemu/blob/output/github-contribution-grid-snake.gif)
-
-<details>
- <summary><h3>👨‍💻 Kelvin Hemu's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer engineering student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself cyber security development with a dream to build and crack systems, but that soon got overshadowed by my desire to excel in UI/UX design. A desire that landed me a full-stack software engineering job while self learning. However, I had another desire I had been pursuing throughout this time - Machine learning. I eventually ended up quitting my software engineering job to pursue Machine Learning full-time, and that has been my focus ever since. My journey hasn’t been easy, but it’s taught me that the key to growth is pushing beyond my comfort zone. I have a passion for building systems that matter, and I’m constantly learning new ways to integrate AI, web design, and machine learning into impactful solutions. This is just the beginning—I'm determined to keep chasing my dreams and making a difference through technology.
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
