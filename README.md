@@ -13,8 +13,7 @@
     <img align="right" alt="GIF" src="ai.gif" width=35% height=45%/>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
     <ul>
-        <li>  🔭  I’m currently working on Lishe App</li><br>
-         <li> 🌱  I’m currently learning PyTorch</li><br>
+        <li>  🔭  I’m currently working on Rafiki AI</li><br>
          <li> 📫  How to reach me Kelvinhemu@gmail.com</li><br>
          <li> 🎓 I'm a Computer Engineering Student (3rd Year)</li><br>
          <li> ⚡ • Fun fact: Call me KSI</li><br>
