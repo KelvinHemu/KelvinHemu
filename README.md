@@ -1,5 +1,5 @@
 
-#  Kelvin (KSI)
+# Kelvin (KSI)
 
 🎓 Computer Engineering student @ UDSM
 💡 Founder of Rafiki AI
